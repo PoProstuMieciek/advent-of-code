@@ -1,7 +1,4 @@
 #include <stdio.h>
-#include <vector>
-#include <array>
-using namespace std;
 
 bool is_in_range(int t, int x, int y)
 {
